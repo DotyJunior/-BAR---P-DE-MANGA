@@ -1,0 +1,7 @@
+{
+  "name": "Pé de Manga — Choperia & Música ao Vivo",
+  "description": "Site oficial do Bar e Restaurante Pé de Manga em Doutor Camargo - PR. Agenda de shows ao vivo, cardápio completo, fotos e reserva de mesas pelo WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
